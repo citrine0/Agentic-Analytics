@@ -53,7 +53,6 @@
 *   **Python:** 作为项目的主要开发语言。
 *   **Pandas & NumPy:** 强大的数据处理双雄，用于高效地进行数据操作、清洗和数值计算。
 *   **Matplotlib:** 负责将分析结果转化为富有洞察力的、动态交互的可视化图表。
-*   **Jupyter Notebook:** 在项目初期用于进行探索性数据分析(EDA)，以及快速验证算法和思路。
 
 ### AI框架与核心技术 (AI Frameworks & Core Technologies)
 
